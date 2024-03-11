@@ -1,1 +1,1 @@
-# I'm now learning Java Script
+# I'm learning java script
